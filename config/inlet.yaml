@@ -1,4 +1,6 @@
 ---
+http:
+  listen: localhost:4242
 kafka:
   compression-codec: zstd
 metadata:
